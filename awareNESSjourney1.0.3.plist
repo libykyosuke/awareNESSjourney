@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/10738832/awareNESSjourney/awareNESSjourney1.0.3.ipa</string>
+					<string>https://libykyosuke.github.io/awareNESSjourney/awareNESSjourney1.0.3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/10738832/awareNESSjourney/Icon@2x.png</string>
+					<string>https://libykyosuke.github.io/awareNESSjourney/Icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/10738832/awareNESSjourney/Icon.png</string>
+					<string>https://libykyosuke.github.io/awareNESSjourney/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
